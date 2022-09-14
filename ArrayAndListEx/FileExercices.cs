@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ArrayAndListEx
 {
-    internal class Class1
+    public class FilesExercices
     {
+
     }
 }

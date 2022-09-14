@@ -8,10 +8,20 @@ namespace ArrayAndListEx
         {
             var ex = new ExercicesList();
             var stringExercise = new StringExercices();
+            var stackExercise = new StackExercise();
 
-            stringExercise.Exercice5();
-            
-            
+
+            stackExercise.Push(1);
+            stackExercise.Push(2);
+            stackExercise.Push(3);
+
+            Console.WriteLine(stackExercise.Pop());
+            Console.WriteLine(stackExercise.Pop());
+            Console.WriteLine(stackExercise.Pop());
+
+
+
+
         }
     }
 
