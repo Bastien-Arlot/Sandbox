@@ -1,0 +1,15 @@
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.exe
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.deps.json
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.runtimeconfig.json
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.dll
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.pdb
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.csproj.AssemblyReference.cache
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.AssemblyInfoInputs.cache
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.AssemblyInfo.cs
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.csproj.CoreCompileInputs.cache
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.dll
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\refint\StackOverFlowPost.dll
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.pdb
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.genruntimeconfig.cache
+C:\Users\BastienARLOT\Sandbox\StackOverFlowPost\obj\Debug\net6.0\ref\StackOverFlowPost.dll
